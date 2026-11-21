@@ -1,0 +1,15 @@
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/bin/Debug/net8.0/Movies.APP.deps.json
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/bin/Debug/net8.0/Movies.APP.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/bin/Debug/net8.0/Movies.APP.pdb
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/bin/Debug/net8.0/CORE.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/bin/Debug/net8.0/CORE.pdb
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.csproj.AssemblyReference.cache
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.AssemblyInfoInputs.cache
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.AssemblyInfo.cs
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.csproj.CoreCompileInputs.cache
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.csproj.Up2Date
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/refint/Movies.APP.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/Movies.APP.pdb
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/Movies.APP/obj/Debug/net8.0/ref/Movies.APP.dll

@@ -1,0 +1,12 @@
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/bin/Debug/net8.0/CORE.deps.json
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/bin/Debug/net8.0/CORE.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/bin/Debug/net8.0/CORE.pdb
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.AssemblyInfoInputs.cache
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.AssemblyInfo.cs
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.csproj.CoreCompileInputs.cache
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/refint/CORE.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.pdb
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/ref/CORE.dll
+/Users/erdemgozen/Desktop/Fourth Grade/1st Term/465/MoviesMicroservices/CORE/obj/Debug/net8.0/CORE.csproj.AssemblyReference.cache
